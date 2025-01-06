@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yuusuf Adow</h1>
+<h1 align="center">Hello 👋, I'm Yuusuf Adow</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/yuusufcadow/yuusufcadow/94f16200bc2d3f941e66ae3dbe066a14bdd20580/Untitled-1%20%5BRecovered%5D-02.png">
