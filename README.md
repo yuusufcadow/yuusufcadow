@@ -2,6 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://i.makeagif.com/media/4-05-2023/xNr7_w.gif">
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/yuusufcadow/yuusufcadow/94f16200bc2d3f941e66ae3dbe066a14bdd20580/Untitled-1%20%5BRecovered%5D-02.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuusufcadow&label=Profile%20views&color=0e75b6&style=flat" alt="yuusufcadow" /> </p>
 
