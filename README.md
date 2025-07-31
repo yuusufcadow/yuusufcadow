@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Yuusuf Adow Mohamuud</h1>
 <h3 align="center">A passionate full stack developer from Somalia</h3>
 
-<img align="right" alt="coding" width="400" src="https://scontent.fmgq1-2.fna.fbcdn.net/v/t39.30808-6/515439361_761458862887356_7606383540551415034_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=100&ccb=1-7&_nc_sid=833d8c&_nc_ohc=LvHwpBxOR5sQ7kNvwHQCiIF&_nc_oc=AdmACDd8hEBw44QcDPwa3wGIl40ojfOQLMk3KgHuxbQAlnX5yZPlrK2E7jfZ6Oo8WRI&_nc_zt=23&_nc_ht=scontent.fmgq1-2.fna&_nc_gid=ISEqajAS7LVqOjzs_tR9JQ&oh=00_AfSNYkkhed_wLbMC5eTkxMZpZVDYIhXlVgAiIZfHr2Eapg&oe=68912B26">
+<img align="right" alt="coding" width="400" src="https://scontent.fmgq1-2.fna.fbcdn.net/v/t39.30808-6/500452069_726285096404733_2509088723082262644_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=Y-lpMBXvWyYQ7kNvwGDjghH&_nc_oc=Adkn8O-laUhnKv_l3OHMQrKyRWEmETTfLxHDyv1NNfU-NVu1Wkueh_35yly_fVbY6K0&_nc_zt=23&_nc_ht=scontent.fmgq1-2.fna&_nc_gid=lLBu0rXXZWsIiizW4pLTpA&oh=00_AfTjNi3XxwhgHWOfSbHBKCc7Wqi3lZumFxWv55wpgqJrow&oe=68913579">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuusufcadow&label=Profile%20views&color=0e75b6&style=flat" alt="yuusufcadow" /> </p>
 
