@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack developer from Somalia</h3>
 
 <img align="right" alt="coding" width="400" src="https://www.facebook.com/photo/?fbid=726285089738067&set=a.100390795660836
-">
+"/>
 
 <p align="left"> </p>
 
