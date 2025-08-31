@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://www.facebook.com/photo/?fbid=726285089738067&set=a.100390795660836"
 ">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yuusufcadow&label=Profile%20views&color=0e75b6&style=flat" alt="yuusufcadow" /> </p>
+<p align="left"> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
