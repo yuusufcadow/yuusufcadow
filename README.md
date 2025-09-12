@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yuusuf Adow Mohamuud</h1>
+<h1 align="center"> I'm Yuusuf Adow Mohamuud</h1>
 <h3 align="center">A passionate frontend developer from Somlaia</h3>
 
 - 🔭 I’m currently working on [Heegan Technology](https://heegantechnology.com/)
