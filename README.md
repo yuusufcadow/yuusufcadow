@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React.jsx ,Nodejs,express,etc**
 
-- 💬 Ask me about **REactjsx**
+- 💬 Ask me about **Reactjsx**
 
 - 📫 How to reach me **yuusufcadow938@gmail.com**
 
