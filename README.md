@@ -33,7 +33,12 @@
 
 <p align="left">
   <a href="https://www.facebook.com/yuusuf.adow.mohamuud" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" alt="Facebook" width="45" height="45" />
+    <img 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" 
+      alt="Facebook" 
+      width="45" 
+      height="45" 
+    />
   </a>
 </p>
 
