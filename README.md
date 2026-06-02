@@ -1,6 +1,6 @@
 # Hi 👋, I'm Yuusuf Adow Mohamuud
 
-### Frontend Developer from Somalia 🇸🇴
+### Full Stack Developer from Somalia 🇸🇴
 
 <img src="https://komarev.com/ghpvc/?username=yuusufadow&label=Profile%20Views&color=6b7280&style=flat" alt="Profile views" />
 
