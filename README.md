@@ -28,29 +28,20 @@
     <td>Full Stack Developer at <a href="https://heegantechnology.com/">Heegan Technology</a></td>
   </tr>
   <tr>
-    <td><strong>Profile</strong></td>
-    <td>
-      I am a full stack developer focused on building modern, responsive, and scalable web applications.
-      I enjoy turning business ideas into clean user interfaces, reliable backend systems, and practical digital products.
-    </td>
+    <td><strong>Main Focus</strong></td>
+    <td>Building modern, responsive, and scalable web applications</td>
   </tr>
   <tr>
     <td><strong>Currently Learning</strong></td>
-    <td>
-      I am currently improving my full stack development skills through professional learning programs in software development,
-      frontend engineering, backend development, JavaScript, React, Node.js, Express.js, and database-driven applications.
-    </td>
+    <td>React.jsx, Node.js, Express.js, JavaScript backend development, and full stack engineering</td>
   </tr>
   <tr>
     <td><strong>Learning Programs</strong></td>
-    <td>
-      Amazon Junior Software Developer, Meta Full Stack, IBM Full Stack Software Developer,
-      and IBM JavaScript Backend Developer through Kiron Open Higher Education.
-    </td>
+    <td>Amazon Junior Software Developer, Meta Full Stack, IBM Full Stack Software Developer, and IBM JavaScript Backend Developer</td>
   </tr>
   <tr>
     <td><strong>Ask Me About</strong></td>
-    <td>React.js, JavaScript, frontend development, backend APIs, and full stack web applications</td>
+    <td>JavaScript libraries, React ecosystem, frontend architecture, REST APIs, and modern web development</td>
   </tr>
   <tr>
     <td><strong>Contact</strong></td>
@@ -67,31 +58,31 @@
     <td width="50%">
       <h3>Frontend Development</h3>
       <p>
-        Creating responsive, clean, and user-focused interfaces using HTML, CSS, JavaScript,
-        React.js, Vue.js, Tailwind CSS, and modern frontend workflows.
+        Developing clean and responsive user interfaces with modern JavaScript tools,
+        component-based architecture, and strong UI practices.
       </p>
     </td>
     <td width="50%">
       <h3>Backend Development</h3>
       <p>
-        Building backend systems, REST APIs, server-side logic, and database-connected applications
-        using Node.js, Express.js, Python, and MongoDB.
+        Building APIs, server-side logic, and database-connected applications using
+        Node.js, Express.js, Python, and MongoDB.
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>Full Stack Engineering</h3>
+      <h3>Full Stack Development</h3>
       <p>
-        Connecting frontend interfaces with backend services to build complete web applications
-        that are functional, maintainable, and ready for real users.
+        Connecting frontend experiences with backend systems to create complete,
+        practical, and maintainable web applications.
       </p>
     </td>
     <td width="50%">
-      <h3>Professional Growth</h3>
+      <h3>Professional Learning</h3>
       <p>
-        Strengthening my software development foundation through structured programs from Amazon,
-        Meta, IBM, and hands-on project-based learning.
+        Growing through structured software development programs from Amazon,
+        Meta, IBM, and hands-on project-based practice.
       </p>
     </td>
   </tr>
@@ -125,14 +116,14 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yuusufadow&show_icons=true&theme=graywhite&hide_border=true&border_radius=14&count_private=true" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yuusufadow&show_icons=true&hide_border=true&border_radius=14&include_all_commits=true&count_private=true&bg_color=00000000&title_color=1D4ED8&text_color=334155&icon_color=1D4ED8" alt="Yuusuf's GitHub Stats" />
 
-<img width="49%" src="https://streak-stats.demolab.com?user=yuusufadow&theme=graywhite&hide_border=true&border_radius=14" alt="GitHub Streak" />
+<img width="49%" src="https://streak-stats.demolab.com?user=yuusufadow&hide_border=true&border_radius=14&background=00000000&stroke=1D4ED8&ring=1D4ED8&fire=38BDF8&currStreakLabel=1D4ED8&sideLabels=1D4ED8&currStreakNum=334155&sideNums=334155&dates=64748B" alt="Yuusuf's GitHub Streak" />
 
 <br />
 <br />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuusufadow&layout=compact&theme=graywhite&hide_border=true&border_radius=14" alt="Top Languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuusufadow&layout=compact&hide_border=true&border_radius=14&bg_color=00000000&title_color=1D4ED8&text_color=334155" alt="Yuusuf's Top Languages" />
 
 </div>
 
