@@ -25,7 +25,7 @@
 <table>
   <tr>
     <td width="180"><strong>Current Role</strong></td>
-    <td>Full Stack Developer at <a href="https://heegantechnology.com/">Heegan Technology</a></td>
+    <td>Frontend Developer at <a href="https://heegantechnology.com/">Heegan Technology</a></td>
   </tr>
   <tr>
     <td><strong>Main Focus</strong></td>
