@@ -1,19 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:111827,100:374151&text=Yuusuf%20Adow%20Mohamuud&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Full%20Stack%20Developer%20from%20Somalia&descAlignY=60&descSize=18" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0F172A,50:1D4ED8,100:38BDF8&text=Yuusuf%20Adow%20Mohamuud&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Full%20Stack%20Developer%20from%20Somalia&descAlignY=60&descSize=18" alt="Header" />
 
 <br />
 
-<img src="https://komarev.com/ghpvc/?username=yuusufadow&label=Profile%20Views&color=111827&style=for-the-badge" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=yuusufadow&label=Profile%20Views&color=1d4ed8&style=for-the-badge" alt="Profile views" />
 
 <br />
 <br />
 
 <a href="mailto:yuusufcadow938@gmail.com">
-  <img src="https://img.shields.io/badge/Email-yuusufcadow938%40gmail.com-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-yuusufcadow938%40gmail.com-1D4ED8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <a href="https://www.facebook.com/yuusuf.adow.mohamuud" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-Connect-111827?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  <img src="https://img.shields.io/badge/Facebook-Connect-1D4ED8?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
 </a>
 
 </div>
@@ -28,12 +28,29 @@
     <td>Full Stack Developer at <a href="https://heegantechnology.com/">Heegan Technology</a></td>
   </tr>
   <tr>
+    <td><strong>Profile</strong></td>
+    <td>
+      I am a full stack developer focused on building modern, responsive, and scalable web applications.
+      I enjoy turning business ideas into clean user interfaces, reliable backend systems, and practical digital products.
+    </td>
+  </tr>
+  <tr>
     <td><strong>Currently Learning</strong></td>
-    <td>React.jsx, Node.js, Express.js, and modern backend development</td>
+    <td>
+      I am currently improving my full stack development skills through professional learning programs in software development,
+      frontend engineering, backend development, JavaScript, React, Node.js, Express.js, and database-driven applications.
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Learning Programs</strong></td>
+    <td>
+      Amazon Junior Software Developer, Meta Full Stack, IBM Full Stack Software Developer,
+      and IBM JavaScript Backend Developer through Kiron Open Higher Education.
+    </td>
   </tr>
   <tr>
     <td><strong>Ask Me About</strong></td>
-    <td>React.js, JavaScript, frontend development, and web application architecture</td>
+    <td>React.js, JavaScript, frontend development, backend APIs, and full stack web applications</td>
   </tr>
   <tr>
     <td><strong>Contact</strong></td>
@@ -50,27 +67,31 @@
     <td width="50%">
       <h3>Frontend Development</h3>
       <p>
-        Building clean, responsive, and user-friendly interfaces using modern JavaScript frameworks.
+        Creating responsive, clean, and user-focused interfaces using HTML, CSS, JavaScript,
+        React.js, Vue.js, Tailwind CSS, and modern frontend workflows.
       </p>
     </td>
     <td width="50%">
       <h3>Backend Development</h3>
       <p>
-        Developing scalable APIs, working with databases, and creating reliable server-side systems.
+        Building backend systems, REST APIs, server-side logic, and database-connected applications
+        using Node.js, Express.js, Python, and MongoDB.
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>UI Engineering</h3>
+      <h3>Full Stack Engineering</h3>
       <p>
-        Translating design ideas into polished, accessible, and maintainable user experiences.
+        Connecting frontend interfaces with backend services to build complete web applications
+        that are functional, maintainable, and ready for real users.
       </p>
     </td>
     <td width="50%">
-      <h3>Continuous Learning</h3>
+      <h3>Professional Growth</h3>
       <p>
-        Improving through real-world projects, modern tooling, and best practices in full stack development.
+        Strengthening my software development foundation through structured programs from Amazon,
+        Meta, IBM, and hands-on project-based learning.
       </p>
     </td>
   </tr>
@@ -121,10 +142,10 @@
 
 <p>
   <a href="https://www.facebook.com/yuusuf.adow.mohamuud" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-Yuusuf%20Adow%20Mohamuud-111827?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+    <img src="https://img.shields.io/badge/Facebook-Yuusuf%20Adow%20Mohamuud-1D4ED8?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   <a href="mailto:yuusufcadow938@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-1D4ED8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
@@ -132,6 +153,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:374151,100:111827" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:38BDF8,50:1D4ED8,100:0F172A" alt="Footer" />
 
 </div>
